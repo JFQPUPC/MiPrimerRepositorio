@@ -1,0 +1,68 @@
+img{
+    height: 400px;
+    width: 550px;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    margin: 120px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+h3, p, ul, ol, dl, td {
+    color: white;
+}
+
+label{
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: white;
+}
+
+input, textarea,select{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border:1px solid #bbb;
+    border-radius: 6px;
+}
+
+input[type="submit"]{
+    background: #ea9c13;
+    color: white;
+}
+
+.Contenedor{
+    max-width: 400px;
+    margin: 0 auto;
+    margin-left: 440px;
+    padding: 20px;
+    background-color: black;
+}
+
+#tabla{
+    margin-left: 320px;
+}
+
+#img2{
+    height: 400px;
+    width: 310px;
+    display: block;
+    margin: 0 auto;
+}
